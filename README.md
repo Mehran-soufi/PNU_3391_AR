@@ -5,4 +5,6 @@
 - [Resume](https://mehran-soufi.github.io/resume.github.io/) 
 - [SOP](https://mehran-soufi.github.io/SOP/)
 - [GitHub](https://github.com/Mehran-soufi)
+- [latex](https://https://mehran-soufi.github.io/latex/)
+
 ------------------
