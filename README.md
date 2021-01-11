@@ -82,4 +82,4 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
-fvhd h,k [n,gi nrdrh hdk ;ngv, ;\d ;k
+
