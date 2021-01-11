@@ -8,7 +8,7 @@
 - [latex](https://github.com/Mehran-soufi/latex)
 - [beamer](https://github.com/Mehran-soufi/PNU_3391_AR/tree/main/beamer)
 - [Patchwork](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/IMG_20210101_155047.jpg?raw=true)
-- [JavaScriot Certificate](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/JavaScript_certificate.jpg)
+- [JavaScript Certificate](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/JavaScript_certificate.jpg)
 -----------------
 #فعالیت های عمومی
 - [دروس مشابه](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
