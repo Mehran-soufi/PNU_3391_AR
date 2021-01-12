@@ -18,7 +18,7 @@
 #ارزیابی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_GeneralSection_CheckList_AR_3991.pdf)
-- [روش ارائه و پژوهش](https://github.com/Mehran-soufi/PNU_3391_AR/tree/main/General)
+- [روش ارائه و پژوهش](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 -----------------
 ## درس کارشناسی
 [روش پژوهش و اراِئه 01-1322010](https://githubhttps://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods.com/)
