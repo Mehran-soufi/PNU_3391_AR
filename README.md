@@ -16,7 +16,7 @@
 - [پایان نامه](https://conservancy.umn.edu/handle/11299/182784)
 -----------------
 #ارزیابی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/Mehran-soufi/PNU_3391_AR/tree/main/General)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_GeneralSection_CheckList_AR_3991.pdf)
 - [روش ارائه و پژوهش](https://github.com/Mehran-soufi/PNU_3391_AR/tree/main/General)
 -----------------
