@@ -6,6 +6,7 @@
 - [SOP](https://mehran-soufi.github.io/SOP/)
 - [GitHub](https://github.com/Mehran-soufi)
 - [latex](https://github.com/Mehran-soufi/latex)
+- [ارائه شفاهی لاتک](https://drive.google.com/file/d/1TZuD2Frp8qVNnmL6wGdLcebJ6_oFpTg2/view?usp=drivesdk)
 - [beamer](https://github.com/Mehran-soufi/PNU_3391_AR/tree/main/beamer)
 - [Patchwork](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/IMG_20210101_155047.jpg?raw=true)
 - [JavaScript Certificate](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/JavaScript_certificate.jpg)
